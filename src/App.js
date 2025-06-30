@@ -10,7 +10,7 @@ function App() {
       <img src={dictionary}className="App-pic img-fluid"alt="pic" /> 
       </header>
       <main>
-        <Dictionary />
+        <Dictionary  defaultKeyword="Sunshine"/>
       </main>
       <footer className="App-footer">
         <small>Coded by Jacinta Musau</small>
