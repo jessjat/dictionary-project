@@ -13,7 +13,7 @@ function App() {
         <Dictionary  defaultKeyword="Sunshine"/>
       </main>
       <footer className="App-footer">
-        <small>Coded by Jacinta Musau</small>
+        <small>Coded by Jacinta Musau and is <a href="https://github.com/jessjat/dictionary-project">open-sourced on GitHub</a> and <a href="https://dictionaryapp-project.netlify.app/">hosted on Netlify</a></small>
       </footer>
 
       </div>
